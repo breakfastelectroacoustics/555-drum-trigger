@@ -2,7 +2,7 @@
 
 This trigger module helps to sanitize a switch input to control sound sources (e.g. drum samples) a bit more precisely.
 
-![555 Drum Trigger: Photo](Photos/555-drum-trigger_F.png)
+![555 Drum Trigger: Photo](Photos/555-drum-trigger_F.jpg)
 
 This circuit uses a 555 timer in monostable mode. It reacts to an input event (in this case a button press, regardless of specific length) by outputting a pulse. This single square pulse is variable in duration and amplitude.
 
